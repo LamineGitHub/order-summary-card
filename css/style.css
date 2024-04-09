@@ -62,7 +62,7 @@ body {
         color: var(--neutral-dark-blue);
         font-size: clamp(1.375rem, 1.243rem + 0.563vw, 1.75rem);
         font-weight: var(--font-bold);
-        margin-bottom: calc(1em + 1px);
+        margin-bottom: 1em;
     }
 
     p {
