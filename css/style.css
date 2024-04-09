@@ -52,8 +52,8 @@ body {
 
     > div {
         max-width: 355px;
-        margin-block: clamp(2rem, 1.718rem + 1.202vw, 2.8rem);
-        margin-inline: clamp(1.5em, 0.972em + 2.254vw, 3em);
+        margin-block: clamp(2rem, 1.714rem + 1.221vw, 2.813rem) clamp(2rem, 1.648rem + 1.502vw, 3rem);
+        margin-inline: clamp(1.5rem, 0.972rem + 2.254vw, 3rem);
     }
 }
 
@@ -92,7 +92,7 @@ body {
         color: var(--primary-bright-blue);
         font-weight: var(--font-bold);
         font-size: calc(1rem - 2px);
-        /*transition: opacity .2s ease-out;*/
+        transition: opacity .2s ease-out;
 
         &:hover {
             opacity: .7;
@@ -105,7 +105,7 @@ body {
     p:first-child {
         color: var(--neutral-dark-blue);
         font-weight: var(--font-bold);
-        margin-bottom: .18em;
+        margin-bottom: clamp(0.188em, 0.121em + 0.282vw, 0.375em);
         white-space: nowrap;
     }
 
