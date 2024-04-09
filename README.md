@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL : [Code Solution](https://github.com/LamineGitHub/order-summary-card)
+- Live Site URL : [Live Site](https://laminegithub.github.io/order-summary-card/)
 
 ## My process
 
@@ -87,6 +87,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- LinkedIn - [Lamine Diallo](https://www.linkedin.com/in/mamadou-lamine-diallo-1a8596241)
 - Frontend Mentor - [@lamine](https://www.frontendmentor.io/profile/LamineGitHub)
 
